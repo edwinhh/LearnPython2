@@ -3,7 +3,7 @@
 """
 python_spider.py by xianhu
 """
-
+# spider view
 import urllib.error
 import urllib.parse
 import urllib.request
